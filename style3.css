@@ -116,3 +116,55 @@ body {
                 margin: 0;
     padding: 0;
 }
+
+.thelips {
+     width: 100px;
+    position: absolute;
+    /* top: 
+    00%; */
+    bottom: 30%;
+    left: 50%;
+            transition: 0.4s ease-in-out;
+                margin: 0;
+    padding: 0;
+    color: pink;
+}
+
+.theeyes{
+                width: 100px;
+    position: absolute;
+    top: 0%;
+    left: 41%;
+            transition: 0.4s ease-in-out;
+                margin: 0;
+    padding: 0;
+    color: red;
+}
+
+.theleg {
+                width: 150px;
+    position: absolute;
+    /* top: 
+    00%; */
+    bottom: 0%;
+    left: 0%;
+            transition: 0.4s ease-in-out;
+                margin: 0;
+    padding: 0;
+    color: rgb(89, 255, 0);
+
+}
+ 
+.thebody {
+                width: 150px;
+    position: absolute;
+    /* top: 
+    00%; */
+    bottom: 10%;
+    left: 50%;
+            transition: 0.4s ease-in-out;
+                margin: 0;
+    padding: 0;
+    color: rgb(79, 0, 153);
+}
+
